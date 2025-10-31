@@ -8,17 +8,18 @@ O projeto também inclui **teste de performance** com auto scaling dinâmico par
 
 ## 📘 Sumário
 
-1. [Introdução](#-introdução)
-2. [Arquitetura do Projeto](#-arquitetura-do-projeto)
-3. [Custos Estimados](#-custos-estimados)
-4. [Estrutura do Projeto](#-estrutura-do-projeto)
-5. [Requisitos](#-requisitos)
-6. [Provisione o projeto no seu ambiente local](#-provisione-o-projeto-no-seu-ambiente-local)
-7. [Configuração de Credenciais](#-configuração-de-credenciais)
-8. [Configuração Passo a Passo](#-configuração-passo-a-passo)
-9. [Execução do Workflow](#-execução-do-workflow)
-10. [Teste de Performance](#-teste-de-performance-auto-scaling)
-11. [Conclusão](#-conclusão)
+1. [Introdução](#introdução)
+2. [Arquitetura do Projeto](#arquitetura-do-projeto)
+3. [Custos Estimados](#custos-estimados)
+4. [Estrutura do Projeto](#estrutura-do-projeto)
+5. [Requisitos](#requisitos)
+6. [Provisione o projeto no seu ambiente local](#provisione-o-projeto-no-seu-ambiente-local)
+7. [Configuração de Credenciais](#configuração-de-credenciais)
+8. [Configuração Passo a Passo](#configuração-passo-a-passo)
+9. [Execução do Workflow](#execução-do-workflow)
+10. [Teste de Performance](#teste-de-performance-auto-scaling)
+11. [Conclusão](#conclusão)
+
 
 ---
 
