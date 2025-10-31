@@ -333,7 +333,7 @@ Use um email pra logar e fazer o test
 - Load distribuicao: 
 - US East (Virginia) - Amazon Web Services(cuidado para nao selecionar outra cloud provider tem que ser Amazon),depois rode o test.
  
-Observe o aumento de 1 para 3 tasks quando ultrapassar 20% em 2min e meio e também o retorno para 1 quando a simulacao de stress parar.
+> Observe o aumento de 1 para 3 tasks quando ultrapassar 20% em 2min e meio e também o retorno para 1 quando a simulacao de stress parar.
 
 ---
 
