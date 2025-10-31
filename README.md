@@ -234,9 +234,9 @@ Solicite um certificado **para o seu domínio** via **AWS Certificate Manager**.
 - Selecione seu ALB.  
 - Região: `us-east-1`
 
-Verifique no navegador — o domínio deve exibir:  
-503 Service Temporarily Unavailable
-Isso indica que o ALB está ativo, mas ainda sem containers conectados.
+> Verifique no navegador — o domínio deve exibir:  
+> 503 Service Temporarily Unavailable
+> Isso indica que o ALB está ativo, mas ainda sem containers conectados.
 ---
 
 ### 8️⃣ Criar Task Definition
