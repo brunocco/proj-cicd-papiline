@@ -8,8 +8,8 @@ O projeto também inclui **teste de performance** com auto scaling dinâmico par
 
 ## 📘 Sumário
 
-1. [Introdução](#introdução)
-2. [Arquitetura do Projeto](#arquitetura-do-projeto)
+1. [Introdução](#-introdução)
+2. [Arquitetura do Projeto](#-arquitetura-do-projeto)
 3. [Custos Estimados](#custos-estimados)
 4. [Estrutura do Projeto](#estrutura-do-projeto)
 5. [Requisitos](#requisitos)
